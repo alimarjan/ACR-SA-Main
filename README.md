@@ -8,3 +8,5 @@ IMDB: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 Sentiment140: http://help.sentiment140.com/for-students
 
 US-airline : https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+
+SD4A: 
