@@ -9,4 +9,4 @@ Sentiment140: http://help.sentiment140.com/for-students
 
 US-airline : https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
-SD4A: 
+SD4A: https://www.kaggle.com/kamyab20/sentiment-dataset-for-afghanistan-sd4a
